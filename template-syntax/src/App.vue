@@ -38,6 +38,8 @@ const box = {
     <p>{{ isClick ? 'Yes' : 'No' }}</p>
     <button :disabled="isClick">Click</button>
     <div v-bind="box">Hello</div>
+    <!-- demo bootstrap -->
+     <div class="text-danger" >text-primary</div>
   </div>
 
 </template>
