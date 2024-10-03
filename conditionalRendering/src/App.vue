@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue'
 
-// V-if sẽ xóa học thêm mới phần tử vào DOM
+// V-if sẽ xóa/thêm mới phần tử vào DOM
 // v-show thì sẽ ẩn hiện phần tử html bằng style css (display: none)
 // v-if có thể dử dụng trong thẻ <template> còn v-show thì không
 
